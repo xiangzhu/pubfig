@@ -1,2 +1,3 @@
 # pubfig
-Figure sharing 
+
+Figures in this repository are merely for teaching and research purpose. 
